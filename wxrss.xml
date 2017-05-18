@@ -1,0 +1,31 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>CIRA Weather Lab Fort Collins, Colorado</title>
+<link>"http://taipan.cira.colostate.edu/wview"</link>
+<description>Current Weather Conditions</description>
+<language>en-us</language>
+<pubDate>01/23/13,16:59:10</pubDate>
+<ttl>1</ttl>
+<generator>wview 5.20.2</generator>
+<item>
+<title>
+CIRA Weather Lab,Fort Collins, Colorado Weather Conditions: 01/23/13 16:59:10
+</title>
+<link>"http://taipan.cira.colostate.edu/wview"</link>
+<description>Current Weather Conditions</description>
+<pubDate>16:59:10, 01/23/13</pubDate>
+<guid isPermaLink="true">"http://taipan.cira.colostate.edu/wview"</guid>
+<dc:date>01/23/13 - 16:59:10</dc:date>
+<content:encoded>
+<![CDATA[
+<temp>47.3</temp><tempunit> F</tempunit>
+ <humidity>24</humidity><humidityunit> %</humidityunit>
+ <dewpoint>12.4</dewpoint><dewpointunit> F</dewpointunit>
+ <barometer>30.066</barometer><barometerunit> in</barometerunit>
+ <winddir>N</winddir><windspeed>5.0</windspeed><windunit> mph</windunit>
+ <precip>0.00</precip><precipunit> in</precipunit>
+]]>
+</content:encoded>
+</item>
+</channel>
+</rss>
